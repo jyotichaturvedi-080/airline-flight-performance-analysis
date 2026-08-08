@@ -9,7 +9,7 @@ This project uses Power BI to analyze airline flight performance across routes a
 
 ### Flight Performance
 
-![Flight Performance](01_flight_performance.png)
+![Flight Performance](flight_performance.png)
 
 ## 📂 Repository Files
 
